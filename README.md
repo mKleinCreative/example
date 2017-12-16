@@ -1,2 +1,16 @@
-# example
-I am an example hear me raor
+# Project Name
+I am an example project
+
+## Specifications
+
+# Team Members
+
+- 
+
+# Responsibiilities
+
+## Front End
+
+## Back End
+
+# Folder Structure
